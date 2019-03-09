@@ -19,7 +19,7 @@ labelencoder_Y = LabelEncoder()
 Y = labelencoder_Y.fit_transform(Y)
 
 ## Visulaising
-## Parallel COordinates
+## Parallel Coordinates
 from pandas.plotting import parallel_coordinates
 plt.figure(figsize = (15, 10))
 parallel_coordinates(dataset.drop("Id", axis = 1),"Species")
