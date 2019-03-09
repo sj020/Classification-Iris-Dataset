@@ -13,6 +13,9 @@ MatplotLib was used for Visualization
 ![Parrelel Coordinates](https://user-images.githubusercontent.com/41876953/54072483-5ed9a300-42a1-11e9-9433-44d7dd0175f3.png)
 
 * Andrew Curves
+
+![Andrew Curves](https://user-images.githubusercontent.com/41876953/54072535-f3dc9c00-42a1-11e9-91ac-a1b41528e619.png)
+
 * Box Plot
 
  
