@@ -18,4 +18,5 @@ MatplotLib was used for Visualization
 
 * Box Plot
 
- 
+ ![Box PLots](https://user-images.githubusercontent.com/41876953/54072556-2be3df00-42a2-11e9-9beb-f79ea1a7d6ef.png)
+
